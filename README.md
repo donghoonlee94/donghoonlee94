@@ -4,11 +4,11 @@
 
 ## 🛠 Tech Stack
 
-- **Frontend**: React, Next.js, JavaScript, TypeScript, HTML, CSS(SCSS), Nuxt, Vue
+- **Frontend**: React, React Native, NextJS, JavaScript, TypeScript, HTML, CSS(SCSS), NuxtJS, Vue, Electron
 - **Backend**: NodeJS, Python, MongoDB, MySQL, NestJS
 - **State Management**: Redux, Zustand, React Query, Vuex, Pinia
-- **Testing**: Jest, Testing Library, Cypress
-- **Etc**: Storybook, Figma, Git, Jest, Cypress
+- **Testing**: Jest, Testing Library, Cypress, playwright
+- **Etc**: Storybook, Figma, Git
 
 ---
 
