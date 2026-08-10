@@ -21,12 +21,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=donghoonlee94&show_icons=true&theme=default)
-
----
-
 ## 📫 Contact
 
 - Email: [94donghoon.lee@gmail.com](mailto:94donghoon.lee@gmail.com)
