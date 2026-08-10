@@ -31,4 +31,3 @@
 
 - Email: [94donghoon.lee@gmail.com](mailto:94donghoon.lee@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/%EB%8F%99%ED%9B%88-%EC%9D%B4-629b2b19b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/%EB%8F%99%ED%9B%88-%EC%9D%B4-629b2b19b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Blog: [https://hoon1994.tistory.com](https://hoon1994.tistory.com/)
