@@ -4,11 +4,11 @@
 
 ## 🛠 Tech Stack
 
-- **Frontend**: React, React Native, NextJS, JavaScript, TypeScript, HTML, CSS(SCSS), NuxtJS, Vue, Electron
-- **Backend**: NodeJS, Python, MongoDB, MySQL, NestJS
-- **State Management**: Redux, Zustand, React Query, Vuex, Pinia
-- **Testing**: Jest, Testing Library, Cypress, playwright
-- **Etc**: Storybook, Figma, Git
+- **Frontend**: TypeScript, React, Next.js, Vue, Nuxt, React Native, Astro, HTML/CSS(SCSS)
+- **State & Data**: TanStack Query, Zustand, Redux, Recoil, Vuex, Pinia, SSE Streaming
+- **Testing & Quality**: Playwright, Jest, Cypress, Storybook, Chromatic, Sentry
+- **Backend & Infra**: Node.js, Python, Supabase, Edge Functions, MongoDB, MySQL, AWS
+- **AI**: LLM API (Claude · Gemini · GPT), MCP, Claude Code
 
 ---
 
